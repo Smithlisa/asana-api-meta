@@ -1,4 +1,4 @@
-Lytepole
+Lytepole.com
 
 Metadata for Asana API for generating client libraries and documenation
 
